@@ -35,3 +35,7 @@ def posiciona_frota_interativa():
                     print("Esta posição não está válida!")
 
     print(frota)
+
+
+if __name__ == "__main__":
+    posiciona_frota_interativa()
